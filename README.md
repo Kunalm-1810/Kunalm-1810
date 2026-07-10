@@ -158,7 +158,8 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Add your LinkedIn profile when available -->
+<a href="linkedin.com/in/kunalmane1810" target="_blank"> 
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>>
 
 </p>
 
