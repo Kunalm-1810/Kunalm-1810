@@ -50,7 +50,7 @@ Exploring automation and Infrastructure as Code
 
 📫 Connect With Me
 GitHub: https://github.com/Kunalm-1810
-LinkedIn: (Coming Soon)
+LinkedIn: linkedin.com/in/kunalmane1810
 
 "Every expert was once a beginner. My repositories document my journey of learning, building, and improving one project at a time."
 
