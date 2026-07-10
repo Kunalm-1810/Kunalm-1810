@@ -154,8 +154,8 @@
 
 <p align="left">
 
-<a href="https://github.com/Kunalm-1810">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Kunalm-1810" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="Github" />
 </a>
 
 <a href="linkedin.com/in/kunalmane1810" target="_blank"> 
