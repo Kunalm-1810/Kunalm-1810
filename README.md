@@ -159,7 +159,7 @@
 </a>
 
 <a href="linkedin.com/in/kunalmane1810" target="_blank"> 
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>
 
 </p>
 
